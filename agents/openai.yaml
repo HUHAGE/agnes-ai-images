@@ -1,0 +1,7 @@
+interface:
+  display_name: "Agnes AI Images"
+  short_description: "Generate images with Agnes AI."
+  default_prompt: "Use $agnes-ai-images to generate an image with Agnes AI."
+
+policy:
+  allow_implicit_invocation: true
