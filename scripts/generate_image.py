@@ -17,7 +17,7 @@ from typing import Any
 
 
 DEFAULT_BASE_URL = "https://apihub.agnes-ai.com/v1"
-DEFAULT_MODEL = "agnes-image-2.0-flash"
+DEFAULT_MODEL = "agnes-image-2.1-flash"
 
 
 def parse_args() -> argparse.Namespace:
